@@ -1,0 +1,6 @@
+{
+  "name": "ConnectSphere",
+  "description": "Find your people and share experiences. Discover activities, match with compatible companions, and coordinate shared adventures and expenses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
